@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter 
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yakshi Ortiz-Maldonado"
   avatar           : "profile.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I recently finished my MSc in Biology at the University of Puerto Rico - Rio Pidras where I characterized the microbial communities associated to plant roots and look into their role in silicates weathering at the tropical mountains of Puerto Rico.   "
   location         : "Puerto Rico"
   employer         : "University of Puerto Rico - Rio Piedras"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "nykolai26"
   vine             :
   weibo            :
   xing             :
