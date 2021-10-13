@@ -1,12 +1,23 @@
 ---
 permalink: /
-title: "About me"
+title: "Research Interests"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+For my thesis project, I worked characterizing microbial communities associated to plant roots and studied their role in silicate weathering. My work was two-folded: First I charecterized the microbial communities through 16S and ITS metagenomics. Then, I established a weathering experiment where I buried 1 x 1 cm rock tiles and pulverized rock pellets  near and far from plant roots . After recovering the rock samples 6 months later, I estimated nutrient mobilization and characterized a microbial communities on the rock surfaces. Now I am currently working with Dr Carla Restrepo in the recovery and analysis of rock samples that were buried for four years!
+
+I am also working with Dr José García Arrarás and the doctoral student Lymarie Díaz Díaz on the characterization of Sea Cucumber intestinal microbiota and its potential role in aiding the Sea Cucumber's intestinal regeneration after eviscerating. 
+
+
+
+
+
+
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
